@@ -1,0 +1,2 @@
+Leaders12th
+応用実装課題Counting Starsのレポジトリです．
